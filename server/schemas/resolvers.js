@@ -15,7 +15,6 @@ const resolvers = {
             throw new AuthenticationError('Not logged in');
         },
     },
-
     Mutation: {
         // create a user, sign a token, and send it back (to client/src/components/SignUpForm.js)
         addUser: async(parent, args) => {
