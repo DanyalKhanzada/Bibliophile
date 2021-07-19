@@ -4,7 +4,7 @@
 
 ## Description
 A book search engine, powered by Google Books API. Users can search for books by title. Users with an account can save books to a personal list. The app runs on a NoSQL Database with a GraphQL API. 
-The app is deployed via [Heroku](). 
+The app is deployed via [Heroku](https://vast-crag-11502.herokuapp.com/). 
 
 ![App screenshot](./img/book-search-screenshot.png)
 
