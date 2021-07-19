@@ -8,10 +8,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Rubik Mono One', sans-serif;
-}
+  font-family: 'Averia Serif Libre', serif;}
 
 .small {
   font-weight: 300;
   font-style: italic;
+}
+
+.loader-hidden {
+  display: none;
+}
+.loader-active {
+  display: block;
 }
